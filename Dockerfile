@@ -39,4 +39,5 @@ EXPOSE \
 
 VOLUME \
     /config \
+    /data \
     /downloads
